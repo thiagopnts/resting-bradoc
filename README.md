@@ -36,7 +36,7 @@ Generators for CPF and CNPJ are available.
 
 A development version is availabe at
 
-`(http://resting-bradoc.herokuapp.com)[http://resting-bradoc.herokuapp.com]`
+`[http://resting-bradoc.herokuapp.com](http://resting-bradoc.herokuapp.com)`
 
 ## TODO
 
