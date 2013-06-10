@@ -3,7 +3,6 @@
 A restful resource for Bradoc.
 
 ## Getting Started
-Install the module with
 
 `git clone resting-bradoc`
 
