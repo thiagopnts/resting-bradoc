@@ -25,7 +25,7 @@ app.get('/cnpj', function(req, res){
   var cnpj = bradoc.cnpj.generate();
   res.json({
     cnpj : cnpj,
-    only_numbers: cnpj.replace(REMOVE_PUNCTUATION_REGEX, "")
+    only_numbers : cnpj.replace(REMOVE_PUNCTUATION_REGEX, "")
   });
 });
 
