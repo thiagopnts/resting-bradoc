@@ -1,0 +1,12 @@
+body{background-color:#333;font-size:100%;font-family:'Nova Round',cursive;text-align:center;color:#fff}
+h1{font-size:5em;text-shadow:-.05em .05em 0 #00e6e6,-.1em .1em 0 #01cccc,-.15em .15em 0 #00bdbd}
+p{font-size:2em;line-height:2em;}
+p small{font-size:.4em;line-height:.4em}
+a{text-decoration:none}
+pre code{background-color:#222;border-radius:5px;padding:1em}
+.button{font-size:1em;display:block-inline;background-color:#00e6e6;padding:.5em 1em;border:0;border-radius:5px;box-shadow:0 4px 1px #01cccc;text-align:center;font-weight:100;transition:background-color .25s ease-in-out,color .25s ease-in-out;color:#fff;margin:.5em;}
+.button:hover{box-shadow:0 4px 1px #00bdbd;background-color:#01cccc;color:#444}
+footer{position:absolute;bottom:0;}
+footer p{font-size:.7em;font-family:Helvetica,Arial,sans-serif;color:#aaa;}
+footer p a{color:#aaa;}
+footer p a:hover{color:#00e6e6}
