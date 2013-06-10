@@ -11,7 +11,7 @@ Install the module with
 
 `node app.js`
 
-Generators and Validators for CPF and CNPJ are available.
+Generators for CPF and CNPJ are available.
 
 ### CPF Restful Resource
 
@@ -39,6 +39,11 @@ A development version is availabe at
 
 `http://resting-bradoc.herokuapp.com`
 
+## TODO
+
+1. Use Bradoc's Validators
+
 ## License
 Copyright (c) 2013 Jú Gonçalves
+
 Licensed under the MIT license.
